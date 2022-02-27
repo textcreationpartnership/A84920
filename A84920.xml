@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation of his Excellency: Tho. L. Fairfax, L. Gen. requiring all persons who have engaged for the King in the first or latter warres now in London, to depart the City, and ten miles distant therefrom, within twenty foure houres after the publication hereof. With a petition of the officers and souldiers, together with the wel-affected inhabitants in the Isle of Weight [sic], Portsmouth, and Hurst, presented to his Excellency. / Published by speciall command.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84920</idno>
+            <idno type="STC">Wing F220</idno>
+            <idno type="STC">Thomason E537_36</idno>
+            <idno type="STC">ESTC R19801</idno>
+            <idno type="EEBO-CITATION">99860744</idno>
+            <idno type="PROQUEST">99860744</idno>
+            <idno type="VID">112869</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112869)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation of his Excellency: Tho. L. Fairfax, L. Gen. requiring all persons who have engaged for the King in the first or latter warres now in London, to depart the City, and ten miles distant therefrom, within twenty foure houres after the publication hereof. With a petition of the officers and souldiers, together with the wel-affected inhabitants in the Isle of Weight [sic], Portsmouth, and Hurst, presented to his Excellency. / Published by speciall command.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Turner, and are to be sold in the Old Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 11th 1648"; the 9 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Collaborationists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112869:1" rendition="simple:additions"/>
+            <p>His Majeſties DECLARATION Concerning The Proclamation of the Army, proclaimed by ſound of Trumpet, throughout the Cities of <hi>London,</hi> and <hi>VVeſt<g ref="char:EOLhyphen"/>minster;</hi> and His Reſolution touching their bringing of Him to Tryall.</p>
+            <p>With a Letter from <hi>Denmark;</hi> a Meſſage to His Majeſty; and His new and latter Game, to be diſputed with the Army.</p>
+            <p>
+               <hi>Dated from</hi> Windſor, <hi>on VVedneſday</hi> Jan: 10. 1648.</p>
+            <p>Alſo the Scots new Declaration, in behalf of their Native Soveraign; and their Deſires and Propoſals to the Commons of <hi>England.</hi>
+            </p>
+            <p>Together with a Declaration from the honeſt party in the Weſt of <hi>England,</hi> touching the King, and their raiſing of 12000 Horſe and Foot, for preſervation of Liberty and Freedome.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal English blazon or coat of arms</figDesc>
+            </figure>
+            <p>Printed for <hi>John Gilbert,</hi> neer Temple-Bar, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:112869:2"/>
+            <pb n="1" facs="tcp:112869:2"/>
+            <head>A DECLARATION From the Kingdom of SCOTLAND Concerning The apparent danger of his Majeſties Royall perſon, and the preſent proceedings of the Parliament and Army in order to the depoſing of <hi>Charles</hi> King of great <hi>Brittain,</hi> their native and law<g ref="char:EOLhyphen"/>full Soveraign.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>THE Parliament of Scotland, are conveened at E<g ref="char:EOLhyphen"/>denburgh, and begin to debate and conſult much upon the tranſaction of affaires in the kingdome of England, divers preſſing hard for unity &amp; concord between the two Nations; others, That their Native Soveraign may
+<pb n="2" facs="tcp:112869:3"/>be inthroned, and his juſt Rights and priviledges confirmed and eſtabliſhed; and to that end, forthwith ſent poſt to their Commiſſioners reſident at <hi>London,</hi> purporting the ſenſe &amp; deſires of that kingdom, requiring them to negotiate with the two Houſes of Parliament, and his Excellency the Lord Gen. <hi>Fairfax,</hi> in behalf of their dread Soveraign, to the end, that no proſecution ſo tryall, may bee put in execution a<g ref="char:EOLhyphen"/>gainſt his royal perſon, without the advice and concurrence of the Nation thereto, and that nothing be done or acted, contrary to the Solemn League and Covenant between the two Kingdoms. Our intelligence from thence further ſaith, That divers of the Scottiſh peers have tranſmitted a Meſ<g ref="char:EOLhyphen"/>ſage to the Kings Majeſty, intimating, <hi>Their loyalty and affe<g ref="char:EOLhyphen"/>ction to his Royall perſon, and their Reſolution to leave no means unaſsayed, for the advancing his Honour and Great<g ref="char:EOLhyphen"/>neſſe.</hi> But notwithſtanding their great forwardneſſe, to make the Royal party glorious, yet there are many diſſenting Bre<g ref="char:EOLhyphen"/>thren amongſt them, who are reſolved to confide with the parliament of England and the Army. The revolutions and tranſactions of affairs in this kingdom, now give a caution to all the well affected in our Neighbour Nation, to carry a ſtrong hand, and an Eagles eye, over the proceedings of the Adverſe party. We hear of a new ſtorme ariſing in Lanca<g ref="char:EOLhyphen"/>ſhire, and of great under-hand liſting there; but the well-affected are putting themſelves in a poſture to receive them and have in readineſſe 4000 Horſe and Foot to attend their motion. We hear that the honeſt party in the Weſt of <hi>England</hi> have alſo put themſelves into a poſture of defence, and have raiſed and liſted 12000 Horſe and Foot, to ingage with the parliament and army (upon any occaſion) for com<g ref="char:EOLhyphen"/>mon Juſtice, Freedom, and Safety, and for promoting the Remonſtrance of the Army, to the end, that impartiall Ju<g ref="char:EOLhyphen"/>ſtice
+<pb n="3" facs="tcp:112869:3"/>may be executed upon the capitall Enemy of this Na<g ref="char:EOLhyphen"/>tion, <hi>viz. Charles Stuart,</hi> for the high crimes and miſdemea<g ref="char:EOLhyphen"/>nours committed by him againſt his ſubjects of <hi>England,</hi> in levying war, maſſacring, and ſpilling the bloud of neer upon 400000 ſoules, within the Bowels of theſe his Realms and Dominions.</p>
+            <closer>
+               <dateline>
+                  <hi>Hallifax</hi> 
+                  <date>6 Jan: 1648:</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>A Declaration of the proceedings of the high Court of Iustice, againſt the ſaid <hi>Charles Stuart.</hi>
+            </head>
+            <p>Munday the 8 of this inſtant, the Lord Gen. <hi>Fairfax,</hi> and the reſt of the Commiſſioners appointed for the tryall of <hi>Charles Stewart</hi> king of <hi>England,</hi> met in the painted Cham<g ref="char:EOLhyphen"/>ber at Weſtminſter, about 3 of the clock in the afternoon, and after ſome debate touching the tryall of his Majeſty, they came to this Reſolution, <hi>viz.</hi> That on Wedneſday mor<g ref="char:EOLhyphen"/>ning a Herauld ſhould be appointed to make proclamation, and proclaime throughout City and Country, <hi>That the Commons of England aſſembled in Parliament, and the Com<g ref="char:EOLhyphen"/>miſſioners for tryall of the King, Do (in the name of themſelvs, and the free-born people of this Nation) declare, That all per<g ref="char:EOLhyphen"/>ſons whatſoever, who have any matter of Fact, againſt</hi> Charles Stuart, <hi>King of</hi> England, <hi>are deſired, and invited, to bring in their Charges, on VVedneſday the</hi> 10 <hi>of this inſtant</hi> January, <hi>to the ſaid Commiſſioners ſitting in VVeſtminſter-Hall, for tri<g ref="char:EOLhyphen"/>all of the King, to the end, that Iuſtice may be executed, and peace and Righteouſneſse eſtabliſhed.</hi>
+            </p>
+            <p>Having thus named the time and place, his <hi>Majeſty</hi> is ex<g ref="char:EOLhyphen"/>pected to be ſent for from <hi>Windſor,</hi> this preſent Thurſday, and to be guarded to St. James'es, by two Regiments of Aorſe, there to remaine during the pleaſure of the High Court of Juſtice.</p>
+         </div>
+         <div type="declaration">
+            <pb n="4" facs="tcp:112869:4"/>
+            <head>The presbyterians Declaration touching the King.</head>
+            <p>AFter mature deliberation upon the proceedings of the Lord Generall Fairfax, and the General councel of Officers, in relation to the eſtabliſhing of a firm and laſting peace within this bleeding, torne, and tottering kingdom, and the erecting of a pure and ſound Government according to the Law of Nature, and the fundamental laws of this Realm, and after ſeveral conferences and diſputa<g ref="char:EOLhyphen"/>tions in order thereunto, divers of the Presbyterian party frequented to Weſtminſter, and other places, where they had ſeverall diſputations and conferences with the Officers, and other members of the Army; and after ſome debate upon the Foundation, of the grounds and principles of the <hi>Agreement of the People,</hi> the Presbyterians declared a great diſlike thereof, remonſtrating, That it was not founded upon a firm Rock; to which objections, ſeverall anſwers were made, for cleering ſuch ſcruples and cautions, as ſeemed dif<g ref="char:EOLhyphen"/>ficult to many; And as for the perſon of the King, they further declared, that notwithſtanding the preſent Ordnance of Attainder againſt his Maj. yet they conceived it requiſite and lawfull, that the prayers of the Miniſtery bee ſtill conti<g ref="char:EOLhyphen"/>nued in every Congregation throughout his Maj. Realmes and Dominions; deſiring, that he may have a legal tryall, and that Hee may not be degraded of his Titles and Honours: Concerning which, be pleaſed to peruſe this enſuing Letter from <hi>Holland,</hi> touching the degrading of his Majeſty.</p>
+            <p>
+               <hi>Sir;</hi> We are here in a kind of amazement, to hear that your <hi>King</hi> ſhould be deſigned for the grave before his time: Be<g ref="char:EOLhyphen"/>lieve it, there's nothing more characterizes men wiſe in the opinion of the wiſeſt meer man, then that they ſee a far off, not the plague of the body only, though that, but judgments ſomtimes for evildoing, ſomtimes for acting indiſcreetly in
+<pb n="5" facs="tcp:112869:4"/>matters that may be done. That which may lawfully bee done, it may be abſurd to do at ſome time: The taking away life, which is that prized above all, by him that all account wiſe, is not juſt (ſay ſome) at any time, unleſſe there be a law that makes the thing done death, and death to him that doth it: The ſupream power of <hi>England</hi> that forbids any to judge of treaſon in a conſtructive way, but themſelvs have retaind in themſelvs a power to judge ſuch and ſuch practiſes and endeavours to amount to treaſon or death. In particular, ſupoſe there were law, or it were in the power of the Lords and Commons to take awoy the life of the preſent King, yet if <hi>England, Scotland,</hi> and <hi>Ireland</hi> ſhalbe made more miſera<g ref="char:EOLhyphen"/>ble thereby in reaſon, and the waas renewed, to the probable ruine of the Nations, and chiefly to thoſe who pretend moſt to piety and juſtice therein, it were better not. That it's dan<g ref="char:EOLhyphen"/>gerous this may be ſaid: If you cut off, you muſt ſet up, va<g ref="char:EOLhyphen"/>cuities of that nature ſuddainly introduce confuſion: If you ſet up, it muſt either be a new <hi>King,</hi> or a new <hi>Government;</hi> if a new <hi>King,</hi> then the next of kinne, and if him, then let his complyance be what it will, his Fathers death cannot bee forgot: no, the danger of his mothers influence, who will re<g ref="char:EOLhyphen"/>main in baniſhment, be eaſily got over, refuſe he to come in, as it's moſt like, he hath the afore-named written upon his breſt, heſides his hereditary claim, his marriage, which no man that hath a purſe, but will endowry with a daughter, raiſe an army of 20000 to reſtore a ſon in law, and make his daughter Queen of 3 kingdoms, which by reaſon of ſci<g ref="char:EOLhyphen"/>tuation, and inherent accommodations may (well managed) be the ballancing power of <hi>Chriſtendom.</hi> If any other, or a new Government, the objections are the ſame, &amp; all the line &amp; that ſucceſſively are made enemies to boot; beſides hath the Parl. or army yet got ſo much love? are they ſo deep in
+<pb n="6" facs="tcp:112869:5"/>the hearts of the people, that they can aſſure them ſelves the newtrals, or thoſe who have gone farre with them will quieſce? But the anſwer is ready, <hi>we have an Army that can not be overcome, neither by what can riſe here, or come from a<g ref="char:EOLhyphen"/>broad.</hi> So had <hi>Alexander,</hi> but <hi>Alexander</hi> was poyſoned, and what then became of his Army? ruin approached. &amp;c.</p>
+            <closer>
+               <dateline>
+                  <hi>Copenhague</hi> 
+                  <date>Jan: 4. 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Sir,</hi> Yeſterday in the evening, here arrived a meſſenger from <hi>London,</hi> who ſecretly conveyed a Letter to his Maj. hands, purporting, That the Commiſſioners for his tryall, had (by an Act of the Commons aſſembled in Parliament) made proclamation throughout the City of <hi>London,</hi> for the ſpeedy bringing of him to tryall, and executing of Juſtice and Judgment upon his perſon, proclaiming him by the name of <hi>Charles Stuart,</hi> &amp;c. And after ſerious meditation upon the ſaid lines, It is given out, by ſome Gentlemen reſi<g ref="char:EOLhyphen"/>dent with his Majeſty, That (after reading the ſame) Hee declared, <hi>That if his Charge and Tryall were legall, and accor<g ref="char:EOLhyphen"/>ding to the known Laws of the Realm, He feared not what man could do against Him; but if they acted contrary, He was re<g ref="char:EOLhyphen"/>ſolved not to make any anſwer thereunto, not doubting but Hee ſhould have a time of redemption, and that with honour and freedome.</hi> Thus confident is He of reſtauration; For, not long ſince. He publikely declared, <hi>That He had a new and latter Game to diſpute with the Army, which might prove more fatall then all the former.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
